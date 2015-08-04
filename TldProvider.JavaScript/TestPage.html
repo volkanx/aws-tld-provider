@@ -1,0 +1,19 @@
+﻿<!--script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script-->
+<!--script-- src="jquery.xdomainajax.js"></script-->
+
+<script src="tld.provider.js"></script>
+
+<div id="container"></div>
+
+<script>
+    window.onload = function () {
+        getTldList(printResults);
+    };
+
+    function printResults(results) {
+        //$('#container').text(results); // jQuery version
+        document.getElementById("container").innerHTML = results; 
+
+        console.log(results);
+    }
+</script>
