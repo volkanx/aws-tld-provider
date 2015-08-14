@@ -171,19 +171,3 @@ UpgradeLog*.htm
 *.bim_*.settings
 
 # Microsoft Fakes
-FakesAssemblies/
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/EasyNetQ.dll
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/EasyNetQ.dll
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/EasyNetQ.xml
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Adaptors.Avery.Schatzel.Console.exe
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Adaptors.Avery.Schatzel.Console.exe.config
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Adaptors.Avery.Schatzel.Console.pdb
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Adaptors.Avery.Schatzel.Console.vshost.exe.config
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Adaptors.Avery.Schatzel.Core.dll
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Adaptors.Avery.Schatzel.Core.pdb
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Adaptors.Common.dll
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Messaging.dll
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlowSDK.dll
-src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/RabbitMQ.Client.dll
-TplWorkout/TestConsole/testfiles/*
-TplWorkout/TestConsole/largefiles/*
